@@ -36,7 +36,7 @@ void mS(vector<int> &arr, int low, int high){
 }
 
 void mergeSort(vector<int> &arr, int n){
-    mS(arr, 0, n - 1);  // sort the entire array
+    mS(arr, 0, n - 1);
 }
 
 int main() {
