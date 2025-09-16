@@ -1,1 +1,1 @@
-[My Linkdin](www.linkedin.com/in/shivansh-yadav00).
+[My Linkdin](https://www.linkedin.com/in/shivansh-yadav00/).
